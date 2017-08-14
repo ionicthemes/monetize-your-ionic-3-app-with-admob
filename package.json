@@ -1,7 +1,7 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "ionic3-admob-tutorial",
+  "author": "IonicThemes",
+  "homepage": "https://ionicthemes.com/",
   "private": true,
   "scripts": {
     "ionic:build": "ionic-app-scripts build",
@@ -56,5 +56,5 @@
       "locator": "android"
     }
   ],
-  "description": "ionic2AdMob: An Ionic project"
+  "description": "Monetize your Ionic app with Admob"
 }
